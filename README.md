@@ -17,5 +17,3 @@ If you prefer, you can also visit the schedule directly by clicking the link bel
 2. **Click the Link**: Alternatively, click the link provided to access the schedule.
 
 ---
-
-Thank you for using our service! If you have any questions, feel free to contact us.

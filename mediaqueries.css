@@ -14,7 +14,7 @@
 
 @media screen and (max-width:1200px){
     body{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .logos img{
         width:30%;
@@ -23,7 +23,7 @@
 
 @media screen and (max-width:600px){
     body{
-        font-size: 0.6rem;
+        font-size: 1rem;
     }
     .logos img{
         width:20%;
