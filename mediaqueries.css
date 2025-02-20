@@ -1,0 +1,26 @@
+@media screen and (max-width:1400px){
+    body{
+        font-size: 2rem;
+    }
+    .logos img{
+        width:50%;
+    }
+}
+
+@media screen and (max-width:1200px){
+    body{
+        font-size: 1rem;
+    }
+    .logos img{
+        width:30%;
+    }
+}
+
+@media screen and (max-width:600px){
+    body{
+        font-size: 0.6rem;
+    }
+    .logos img{
+        width:20%;
+    }
+}
