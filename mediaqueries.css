@@ -3,7 +3,12 @@
         font-size: 2rem;
     }
     .logos img{
-        width:50%;
+        width:40%;
+    }
+    h2 {
+        font-family: 'Brush Script MT', cursive;
+        text-align: center;
+        font-size: -webkit-xxx-large;
     }
 }
 
